@@ -35,7 +35,7 @@ site-3-business-website/
 ---
 
 ## 📸 Preview
-![Business Website Preview](preview.png)
+(preview.png)
 
 ---
 
