@@ -40,8 +40,7 @@ preview3.png
 ---
 
 ## 🌍 Live Demo
-[Click Here to View Website](https://yourusername.github.io/site-3-business-website/)
-
+https://github.com/yashpatil7313/site-3-business-website/settings/pages
 ---
 
 ## 💡 Learning Outcome
