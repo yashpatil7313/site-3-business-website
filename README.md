@@ -35,8 +35,7 @@ site-3-business-website/
 ---
 
 ## 📸 Preview
-preview3.png
-
+![Preview](preview.png)
 ---
 
 ## 🌍 Live Demo
