@@ -38,10 +38,6 @@ site-3-business-website/
 ![Preview](preview.png)
 ---
 
-## 🌍 Live Demo
-https://github.com/yashpatil7313/site-3-business-website/settings/pages
----
-
 ## 💡 Learning Outcome
 - Learned how to build a multi-section website
 - Created a navigation bar
